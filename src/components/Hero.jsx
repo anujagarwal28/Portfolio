@@ -8,13 +8,13 @@ const Hero = ()=> {
         <div className='container items-center lg:grid lg:grid-cols-2 lg:gap-10'>
             <div>
                 <div className='felx items-center gap-3'>
-                    <figure className='img-box w-9 h-9 rounded-lg'>
+                    <figure className='img-box w-9 h-9 rounded-full'>
                         <img
                          src="/pic.jpg"
                          width={40}
                          height={40}
                          alt="Anuj Agarwal"
-                         className='img-cover' 
+                         className='img-cover rounded-2xl' 
                          />
                     </figure>
                     <div className='flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide'>
@@ -37,7 +37,7 @@ const Hero = ()=> {
 
                     <ButtonOutline
                     href="#about"
-                    label="Scrool down"
+                    label="Scroll Down"
                     icon="arrow_downward"
                     />
                 </div>
@@ -50,7 +50,7 @@ const Hero = ()=> {
                     width={656}
                     height={800}
                     alt="Anuj Agarwal" 
-                    className='w-full'
+                    className='w-9/12 rounded-3xl'
                     />
                 </figure>
             </div>
