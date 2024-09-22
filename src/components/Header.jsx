@@ -9,7 +9,7 @@ const Header = ()=> {
 
         <h1>
           <a href="/" className='logo'>
-          <img src="/images/logo.svg"
+          <img src="/images/logo.png"
           width={40}
           height={40}
           alt="Anuj Agarwal" />

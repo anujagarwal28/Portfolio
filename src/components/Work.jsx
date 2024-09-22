@@ -17,7 +17,7 @@ const works = [
       imgSrc: '/images/project3.png',
       title: 'Frontend E-commerce Website',
       tags: ['eCommerce', 'HTML', 'CSS', 'Js'],
-      projectLink: 'https://anujagarwal28.github.io/Food-Rescue-Connect/'
+      projectLink: 'https://anujagarwal28.github.io/e-commerce_website/'
     },
     {
       imgSrc: '/images/project4.png',

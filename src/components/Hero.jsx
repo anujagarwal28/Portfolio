@@ -7,7 +7,7 @@ const Hero = ()=> {
     className='pt-28 lg:pt-36'>
         <div className='container items-center lg:grid lg:grid-cols-2 lg:gap-10'>
             <div>
-                <div className='felx items-center gap-3'>
+                <div className='flex items-center gap-3'>
                     <figure className='img-box w-9 h-9 rounded-full'>
                         <img
                          src="/pic.jpg"
@@ -32,6 +32,8 @@ const Hero = ()=> {
                     <ButtonPrimary
                         label='Download CV'
                         icon='download'
+                        href="https://drive.google.com/file/d/1BFNzHY5X44EO1dheCj4tgbcro1i_Z8G9/view?usp=sharing"
+                        target="_blank"
                     />
                         
 
@@ -50,7 +52,7 @@ const Hero = ()=> {
                     width={656}
                     height={800}
                     alt="Anuj Agarwal" 
-                    className='w-9/12 rounded-3xl'
+                    className='w-10/12 rounded-3xl'
                     />
                 </figure>
             </div>

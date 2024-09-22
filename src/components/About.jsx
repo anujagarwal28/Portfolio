@@ -36,7 +36,7 @@ const About = ()=> {
                         ))
                     }
                     <img 
-                        src="pic.jpg" 
+                        src="/images/logo.png" 
                         alt="Logo"
                         width={30}
                         height={30}

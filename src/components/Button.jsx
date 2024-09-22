@@ -6,7 +6,7 @@ const ButtonPrimary = ({
     target = '_self',
     label,
     icon,
-    classes
+    classes="",
 })=> {
     if (href) {
             return(
