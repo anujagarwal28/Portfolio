@@ -105,7 +105,7 @@ const Footer = () => {
                 className=""
                 >
                     <img 
-                    src="/images/logo2.png"
+                    src="/images/logo.png"
                     width={80}
                     height={80} 
                     alt="Logo" 

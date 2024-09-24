@@ -10,7 +10,7 @@ const Hero = ()=> {
                 <div className='flex items-center gap-3'>
                     <figure className='img-box w-9 h-9 rounded-full'>
                         <img
-                         src="/pic.jpg"
+                         src="/pic.png"
                          width={40}
                          height={40}
                          alt="Anuj Agarwal"
