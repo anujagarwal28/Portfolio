@@ -21,38 +21,38 @@ const Hero = ()=> {
                         <span className='relative w-2 h-2 rounded-full bg-emerald-400'>
                             <span className='absolute inset-0 rounded-full bg-emerald-400 animate-ping'></span>
                         </span>
-                        Available for work
+                        Available
                     </div>
                 </div>
                 <h2 className='headline-1 max-w-[15ch] sm:max-w-[20ch] mt-5
                  mb-8 lg:mb-10'>
-                Building Scalable Modern Websites for the Future
+                Building Sleek, Scalable Websites for the Digital Age
                 </h2>
                 <div className='flex items-center gap-3'>
                     <ButtonPrimary
-                        label='Download CV'
+                        label='Resume'
                         icon='download'
                         href="https://drive.google.com/file/d/1BFNzHY5X44EO1dheCj4tgbcro1i_Z8G9/view?usp=sharing"
                         target="_blank"
                     />
                         
 
-                    <ButtonOutline
+                    {/* <ButtonOutline
                     href="#about"
                     label="Scroll Down"
                     icon="arrow_downward"
-                    />
+                    /> */}
                 </div>
             </div>
 
             <div className='hidden lg:block '>
-                <figure className='w-full max-w-[480px] ml-auto '>
+                <figure className='w-full max-w-[400px] ml-auto bg-gradient-to-t from-sky-900 via 25% via-sky-800/10 to 65% rounded-[60px] overflow-hidden'>
                     <img 
-                    src="/pic.jpg"
+                    src="/pic2.png"
                     width={656}
                     height={800}
                     alt="Anuj Agarwal" 
-                    className='w-10/12 rounded-3xl'
+                    className='w-full'
                     />
                 </figure>
             </div>

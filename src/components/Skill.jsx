@@ -8,6 +8,11 @@ const skillItem = [
   //   desc: 'Design tool'
   // },
   {
+    imgSrc: '/images/html.svg',
+    label: 'HTML',
+    desc: 'Website'
+  },
+  {
     imgSrc: '/images/css3.svg',
     label: 'CSS',
     desc: 'User Interface'
@@ -18,14 +23,9 @@ const skillItem = [
     desc: 'Interaction'
   },
   {
-    imgSrc: '/images/html.svg',
-    label: 'HTML',
-    desc: 'Website'
-  },
-  {
-    imgSrc: '/images/bootstrap.svg',
-    label: 'Bootstrap',
-    desc: 'User Interface'
+    imgSrc: '/images/react.svg',
+    label: 'React',
+    desc: 'Framework'
   },
   // {
   //   imgSrc: '/images/mongodb.svg',
@@ -33,13 +33,13 @@ const skillItem = [
   //   desc: 'Database'
   // },
   {
-    imgSrc: '/images/react.svg',
-    label: 'React',
-    desc: 'Framework'
-  },
-  {
     imgSrc: '/images/tailwindcss.svg',
     label: 'TailwindCSS',
+    desc: 'User Interface'
+  },
+  {
+    imgSrc: '/images/bootstrap.svg',
+    label: 'Bootstrap',
     desc: 'User Interface'
   },
   {
@@ -60,10 +60,10 @@ const Skills = () => {
     <section className="section">
       <div className="container">
         <h2 className="headline-2">
-        Essential Tools I use
+        Here is my key Tech Stack
         </h2>
         <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch]">
-        Discover the powerful tools and technologies I use to create exceptional, high-performing webApps.
+        Delve into the powerful technologies that fuel my creation of exceptional, high-performing WebApps.
         </p>
         <div className="grid gap-3 grid-cols-[repeat(auto-fill,_minmax(250px,_1fr))]">
           {

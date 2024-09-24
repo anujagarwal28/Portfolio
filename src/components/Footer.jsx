@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="lg:grid lg:grid-cols-2">
                 <div className="mb-10">
                     <h2 className="headline-1 mb-8 lg:max-w-[15ch]">
-                    Let's work together today!
+                    Let’s Team Up Now!
                     </h2>
                     {/* <ButtonPrimary
                     className="bg-sky-950"
@@ -65,7 +65,7 @@ const Footer = () => {
 
                 <div className="grid grid-cols-2 gap-4 lg:pl-20">
                     <div className="">
-                        <p className="mb-2">sitemap</p>
+                        <p className="mb-2">SiteMap</p>
                         <ul>
                             {sitemap .map(({label, href}, key ) =>(
                                 <li key={key}>
@@ -105,9 +105,9 @@ const Footer = () => {
                 className=""
                 >
                     <img 
-                    src="/images/logo.png"
-                    width={40}
-                    height={40} 
+                    src="/images/logo2.png"
+                    width={80}
+                    height={80} 
                     alt="Logo" 
                     />
                 </a>

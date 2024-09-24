@@ -21,7 +21,8 @@ const About = ()=> {
         <div className="container">
             <div className="bg-zinc-800/50 p-7 rounded-2xl">
                 <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-                Welcome! I am Anuj Agarwal, a results-driven software developer with a good foundation in Data Structures and Algorithms (DSA) and extensive experience in Frontend Development, particularly with React js. I am eager to apply my analytical problem-solving skills and expertise in building optimized, user-centric web applications to contribute to a forward-thinking development team.
+                Hello, I'm Anuj Agarwal. <br />
+                As a React JS developer, I turn complexity into simplicity, crafting sleek, high-performance web applications that users love. My foundation in Data Structures and Algorithms fuels my ability to build fast, responsive, and scalable interfaces. Whether it's optimizing user interactions or solving intricate problems, I’m driven to innovate and elevate the web experience for the next generation of digital solutions.
                 </p>
                 <div className="flex flex-wrap items-center gap-4 md:gap-7">
                     {
@@ -36,11 +37,11 @@ const About = ()=> {
                         ))
                     }
                     <img 
-                        src="/images/logo.png" 
+                        src="/images/logo2.png" 
                         alt="Logo"
                         width={30}
                         height={30}
-                        className="ml-auto md:w-[40px] md:h-[40px]" 
+                        className="ml-auto md:w-[60px] md:h-[60px]" 
                     />
                 </div>
             </div>
