@@ -2,53 +2,43 @@ import React from 'react'
 import SkillCard from './SkillCard';
 
 const skillItem = [
-  // {
-  //   imgSrc: '/images/figma.svg',
-  //   label: 'Figma',
-  //   desc: 'Design tool'
-  // },
   {
-    imgSrc: '/images/html.svg',
+    imgSrc: 'html.svg',
     label: 'HTML',
     desc: 'Website'
   },
   {
-    imgSrc: '/images/css3.svg',
+    imgSrc: 'css3.svg',
     label: 'CSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: '/images/javascript.svg',
+    imgSrc: 'javascript.svg',
     label: 'JavaScript',
     desc: 'Interaction'
   },
   {
-    imgSrc: '/images/react.svg',
+    imgSrc: 'react.svg',
     label: 'React',
     desc: 'Framework'
   },
-  // {
-  //   imgSrc: '/images/mongodb.svg',
-  //   label: 'MongoDB',
-  //   desc: 'Database'
-  // },
   {
-    imgSrc: '/images/tailwindcss.svg',
+    imgSrc: 'tailwindcss.svg',
     label: 'TailwindCSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: '/images/bootstrap.svg',
-    label: 'Bootstrap',
-    desc: 'User Interface'
+    imgSrc: 'figma.svg',
+    label: 'Figma',
+    desc: 'Designing UI'
   },
   {
-    imgSrc: '/images/vscode.svg',
+    imgSrc: 'vscode.svg',
     label: 'VS Code',
     desc: 'Code Editor'
   },
   {
-    imgSrc: '/images/github.svg',
+    imgSrc: 'github.svg',
     label: 'Github',
     desc: 'Open Source'
   },

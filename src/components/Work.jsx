@@ -2,37 +2,37 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: '/images/project1.png',
+      imgSrc: 'project1.png',
       title: 'Frontend Food Delivery Website',
       tags: ['React', 'MVC', 'Development'],
       projectLink: 'https://go-food-go.vercel.app/'
     },
     {
-      imgSrc: '/images/project2.png',
+      imgSrc: 'project2.png',
       title: 'Frontend Food Donation Website',
       tags: ['HTML', 'CSS','Js'],
       projectLink: 'https://anujagarwal28.github.io/Food-Rescue-Connect/'
     },
     {
-      imgSrc: '/images/project3.png',
+      imgSrc: 'project3.png',
       title: 'Frontend E-commerce Website',
       tags: ['eCommerce', 'HTML', 'CSS', 'Js'],
       projectLink: 'https://anujagarwal28.github.io/e-commerce_website/'
     },
     {
-      imgSrc: '/images/project4.png',
+      imgSrc: 'project4.png',
       title: 'Task Navigator',
       tags: ['React','MVC', 'Development'],
       projectLink: 'https://anujagarwal28.github.io/Todo_React/'
     },
     {
-      imgSrc: '/images/project5.png',
+      imgSrc: 'project5.png',
       title: 'Bg Changer',
       tags: ['React', 'Development'],
       projectLink: 'https://anujagarwal28.github.io/Bg_Color_Changer/'
     },
     {
-      imgSrc: '/images/project6.png',
+      imgSrc: 'project6.png',
       title: 'Password Generator',
       tags: ['React','MVC'],
       projectLink: 'https://anujagarwal28.github.io/Password-Generator/'

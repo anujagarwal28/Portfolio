@@ -32,18 +32,6 @@ const sitemap = [
       label: 'LinkedIn',
       href: 'https://linkedin.com/in/anujagarwal28'
     },
-    // {
-    //   label: 'Twitter X',
-    //   href: 'https://x.com/codewithsadee_'
-    // },
-    // {
-    //   label: 'Instagram',
-    //   href: 'https://www.instagram.com/codewithsadee'
-    // },
-    // {
-    //   label: 'CodePen',
-    //   href: 'https://codepen.io/codewithsadee'
-    // }
   ];
 const Footer = () => {
   return (
@@ -54,12 +42,6 @@ const Footer = () => {
                     <h2 className="headline-1 mb-8 lg:max-w-[15ch]">
                     Let’s Team Up Now!
                     </h2>
-                    {/* <ButtonPrimary
-                    className="bg-sky-950"
-                    href="mailto:agarwalanuj163@gmail.com"
-                    label="Start Project"
-                    icon="chevron_right"
-                    /> */}
                     <button className='bg-sky-400 rounded-xl w-36 h-8 text-zinc-950 text-sm hover:bg-sky-300' > <a href="mailto:agarwalanuj163@gmail.com">Start Project</a></button>
                 </div>
 
@@ -105,7 +87,7 @@ const Footer = () => {
                 className=""
                 >
                     <img 
-                    src="/images/logo.png"
+                    src="logo.png"
                     width={80}
                     height={80} 
                     alt="Logo" 
