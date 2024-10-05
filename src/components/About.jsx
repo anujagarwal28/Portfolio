@@ -1,10 +1,10 @@
 import React from 'react'
 
 const aboutItems = [
-    {
-      label: 'Project done',
-      number: 15
-    },
+    // {
+    //   label: 'Project done',
+    //   number: 5
+    // },
     // {
     //   label: 'Years of experience',
     //   number: 10

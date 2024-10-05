@@ -4,37 +4,37 @@ const works = [
     {
       imgSrc: 'project1.png',
       title: 'Frontend Food Delivery Website',
-      tags: ['React', 'MVC', 'Development'],
+      tags: ['React'],
       projectLink: 'https://go-food-go.vercel.app/'
     },
     {
       imgSrc: 'project2.png',
       title: 'Frontend Food Donation Website',
-      tags: ['HTML', 'CSS','Js'],
+      tags: ['HTML', 'CSS','Javascript'],
       projectLink: 'https://anujagarwal28.github.io/Food-Rescue-Connect/'
     },
     {
       imgSrc: 'project3.png',
       title: 'Frontend E-commerce Website',
-      tags: ['eCommerce', 'HTML', 'CSS', 'Js'],
+      tags: ['HTML', 'CSS', 'Javascript'],
       projectLink: 'https://anujagarwal28.github.io/e-commerce_website/'
     },
     {
       imgSrc: 'project4.png',
       title: 'Task Navigator',
-      tags: ['React','MVC', 'Development'],
+      tags: ['React'],
       projectLink: 'https://anujagarwal28.github.io/Todo_React/'
     },
     {
       imgSrc: 'project5.png',
       title: 'Bg Changer',
-      tags: ['React', 'Development'],
+      tags: ['React'],
       projectLink: 'https://anujagarwal28.github.io/Bg_Color_Changer/'
     },
     {
       imgSrc: 'project6.png',
       title: 'Password Generator',
-      tags: ['React','MVC'],
+      tags: ['React'],
       projectLink: 'https://anujagarwal28.github.io/Password-Generator/'
     },
   ];
