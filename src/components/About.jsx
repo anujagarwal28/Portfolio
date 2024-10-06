@@ -21,8 +21,7 @@ const About = ()=> {
         <div className="container">
             <div className="bg-zinc-800/50 p-7 rounded-2xl">
                 <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-                Hello, I'm Anuj Agarwal. <br />
-                As a React JS developer, I turn complexity into simplicity, crafting sleek, high-performance web applications that users love. My foundation in Data Structures and Algorithms fuels my ability to build fast, responsive, and scalable interfaces. Whether it's optimizing user interactions or solving intricate problems, I’m driven to innovate and elevate the web experience for the next generation of digital solutions.
+                I am Anuj Agarwal, a skilled React JS developer with a solid foundation in Data Structures and Algorithms. I specialize in crafting fast, responsive, and scalable web interfaces, transforming complex requirements into seamless user experiences. Proficient in React JS, JavaScript, and CSS frameworks like Tailwind CSS, I am driven to optimize user interactions and solve technical challenges, continually pushing the boundaries of web innovation.
                 </p>
                 <div className="flex flex-wrap items-center gap-4 md:gap-7">
                     {
