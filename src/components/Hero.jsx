@@ -32,7 +32,7 @@ const Hero = ()=> {
                     <ButtonPrimary
                         label='Resume'
                         icon='download'
-                        href="https://drive.google.com/file/d/1BFNzHY5X44EO1dheCj4tgbcro1i_Z8G9/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1dDILfU0kFbxxOwz8qgRNhgJcvLfbZ982/view?usp=sharing" 
                         target="_blank"
                     />
                 </div>
